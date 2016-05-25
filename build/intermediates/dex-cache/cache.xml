@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Daniel\Desktop\BikeDevice-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\Users\Daniel\Desktop\BikeDevice-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.3.0_a3e9ad67eed16098cf597d2ea14e04786f4de4e6\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Daniel\Desktop\BikeDevice-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2bb653508a37009029dfc6c94854da20c8d3de50">
+        <dex dex="C:\Users\Daniel\Desktop\BikeDevice-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_3d14689fbf44ac079efa5af948e6c53fa5ec1e11\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Daniel\Desktop\BikeDevice-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="69611c3cc1a810192d50908ea15ba957ca0d1552">
+        <dex dex="C:\Users\Daniel\Desktop\BikeDevice-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_6b118ddd22bb1a0ee2a328e73786a94e25882525\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Daniel\Desktop\BikeDevice-master\app\build\intermediates\exploded-aar\com.mcxiaoke.volley\library-aar\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e40b9a81989bd4a846018551c280f8c4d837bf2e">
+        <dex dex="C:\Users\Daniel\Desktop\BikeDevice-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.mcxiaoke.volley-library-aar-1.0.0_ee13132e52999ed88bbcaebf83f5552ea0c5f3a5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Daniel\Desktop\BikeDevice-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="C:\Users\Daniel\Desktop\BikeDevice-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.3.0_8684d0323a7cb3a4c494341c7967aa3963eec818\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Daniel\Desktop\BikeDevice-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="C:\Users\Daniel\Desktop\BikeDevice-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.3.0_4e2b550f55325eb8a23ef81252a6c7464b2e9748\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Daniel\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="C:\Users\Daniel\Desktop\BikeDevice-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.3.0_34213cee7617fb34a48c284c732404d0d4c62bb5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Daniel\Desktop\BikeDevice-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="C:\Users\Daniel\Desktop\BikeDevice-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.3.0_655344c2983d331b427470e4e8c2a27d8e404781\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Daniel\Desktop\BikeDevice-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\Users\Daniel\Desktop\BikeDevice-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_1a1e753ab8e8d490573e57410f437666193cba7d\classes.dex" />
+    </item>
+
+</items>
